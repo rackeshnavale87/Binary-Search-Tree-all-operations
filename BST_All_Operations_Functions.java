@@ -18,7 +18,7 @@ class Node
 	}
 }
 
-// Binary tree common ancestor *******************************
+// Binary tree common ancestor *******************************NOT BST
 static boolean v1 = false, v2 = false;
  Node findLCA(int n1, int n2) {
      v1 = false;
