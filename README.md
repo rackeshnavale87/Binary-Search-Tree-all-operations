@@ -12,3 +12,4 @@
 - Check BST 
 - min-max Depth of Tree
 - Level-wise Traversal
+- check node inRange
