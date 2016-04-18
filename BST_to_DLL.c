@@ -1,10 +1,8 @@
 /*
  ============================================================================
  Name        : binary.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Author      : Rakesh
+ Version     : v1.3
  ============================================================================
  */
 
